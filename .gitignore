@@ -72,6 +72,10 @@ coverage.xml
 local_settings.py
 mycart/settings/local.py
 mycart/settings/base.py
+spo/settings/base.py
+spotify/credentials.py
+
+
 
 # Flask stuff:
 instance/
